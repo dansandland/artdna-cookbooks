@@ -1,0 +1,7 @@
+name             'artdna'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures artdna'
+long_description 'Installs/Configures artdna'
+version          '0.1.0'
